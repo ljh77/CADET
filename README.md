@@ -17,8 +17,10 @@ A full-stack robotic docent platform for museum/indoor navigation, integrating v
 - 🎮 **Joystick Teleoperation** — Manual control fallback
 
 
-### 1. 
+### 1. Auto Check-UP and Wake-Up system
+![Auto Check-UP and Wake-Up System](cadet_system_1.png)
 
+만약 images 폴더 안에 넣었다면:
 
 ### 2. Navigate via Voice
 
