@@ -1,4 +1,4 @@
-# CADET-UP: Museum Docent Robot System
+# CADET-UP: Docent Robot System
 
 > **C**losed-loop **A**rchitecture for **D**ocent **E**xperience with **T**eleop & **U**nified **P**ipeline
 
