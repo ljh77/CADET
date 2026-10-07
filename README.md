@@ -10,7 +10,7 @@ A full-stack robotic docent platform for museum/indoor navigation, integrating v
 
 **CADET-UP** is a museum docent robot built on the Yahboom ROSMASTER M3 platform, enhanced with:
 
-- 🎤 **Voice-Commanded Navigation** — Real-time STT → NLU → Navigation pipeline
+- 🎤 **Voice-Commanded Navigation** — Real-time STT → NUL → Navigation pipeline
 - 👁️ **Visual Verification** — Arm-mounted camera for post-execution arrival confirmation
 - 🧠 **LLM-Driven Intelligence** — Cascade NLU (keyword → LLM interpretation)
 - 📊 **Web Dashboard** — 12-stage boot health monitor + map editor + navigation viewer
@@ -33,7 +33,7 @@ A full-stack robotic docent platform for museum/indoor navigation, integrating v
 
 ### Visual Arrival Verification
 
-### Real-Time Dashboard (Port 5010)
+### Real-Time Dashboard
 
 ### Hardware-Aware Design
 
