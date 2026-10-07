@@ -20,7 +20,7 @@ A full-stack robotic docent platform for museum/indoor navigation, integrating v
 ### 1. Auto Check-UP and Wake-Up system
 ![Auto Check-UP and Wake-Up System](cadet_system_1.png)
 
-### 2. Navigate 
+### 2. Navigate tool
 ![Navigate](CADET_SYSTEM_2.png)
 
 ### 3. Voice via Move(Navi)
