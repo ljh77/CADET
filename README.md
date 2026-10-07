@@ -13,8 +13,8 @@ A full-stack robotic docent platform for museum/indoor navigation, integrating v
 **CADET-UP is designed as a platform-independent support solution, enabling its core technologies and framework to be extended and integrated into various robotic and mobility systems in the future.**
 
 - 🎤 **Voice-Commanded Navigation** — Real-time STT → NUL → Navigation pipeline
-- 👁️ **Visual Verification** — Arm-mounted camera for post-execution arrival confirmation
-- 🧠 **LLM-Driven Intelligence** — Cascade NLU (keyword → LLM interpretation)
+- 👁️ **Visual Verification** — Camera for post-execution arrival confirmation or Visual Detective
+- 🧠 **LLM-Driven Intelligence** — Cascade NLU (keyword → LLM interpretation) or LLM Model
 - 📊 **Web Dashboard** — 15-stage boot health monitor + map editor + navigation viewer
 - 🎮 **Joystick Teleoperation** — Manual control fallback
 
