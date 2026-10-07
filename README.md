@@ -15,7 +15,7 @@ A full-stack robotic docent platform for museum/indoor navigation, integrating v
 - 🎤 **Voice-Commanded Navigation** — Real-time STT → NUL → Navigation pipeline
 - 👁️ **Visual Verification** — Arm-mounted camera for post-execution arrival confirmation
 - 🧠 **LLM-Driven Intelligence** — Cascade NLU (keyword → LLM interpretation)
-- 📊 **Web Dashboard** — 12-stage boot health monitor + map editor + navigation viewer
+- 📊 **Web Dashboard** — 15-stage boot health monitor + map editor + navigation viewer
 - 🎮 **Joystick Teleoperation** — Manual control fallback
 
 
