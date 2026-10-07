@@ -53,3 +53,6 @@ A full-stack robotic docent platform for museum/indoor navigation, integrating v
 
 [Specify your license here — MIT, Apache 2.0, etc.]
 
+## Contact
+
+junh.lee@gist.ac.kr
