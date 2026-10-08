@@ -21,7 +21,11 @@ Enhanced with advanced autonomous navigation and intelligent interaction capabil
 
 ### 1. Auto Check-UP and Wake-Up system
 ![Auto Check-UP and Wake-Up System](cadet_system_1.png)
-https://github.com/user-attachments/assets/024c38c0-a5e6-44ad-bb63-92949c84e684
+
+
+https://github.com/user-attachments/assets/47e4e02a-9882-4969-8bf7-aefddca7af27
+
+
 
 ### 2. Navigate tool
 ![Navigate](CADET_SYSTEM_2.png)
