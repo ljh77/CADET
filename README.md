@@ -31,17 +31,6 @@ https://github.com/user-attachments/assets/1a6b042b-9a90-4d49-93da-be9e23cf0096
 
 ---
 
-## 🎯 Key Features
-
-### Voice-Commanded Navigation
-### LLM communicate
-### Visual Arrival Verification
-
-### Real-Time Dashboard
-
-### Hardware-Aware Design
-
-
 ## 📈 Performance Notes
 
 | Metric | Value | Notes |
