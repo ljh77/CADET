@@ -21,7 +21,7 @@ Enhanced with advanced autonomous navigation and intelligent interaction capabil
 
 ### 1. Auto Check-UP and Wake-Up system
 ![Auto Check-UP and Wake-Up System](cadet_system_1.png)
-[▶ Watch CADET-ON Demo Video](CADET-ON.mp4)
+[▶ Watch CADET-ON Video](https://github.com/ljh77/CADET/blob/main/CADET-ON.mp4)
 
 ### 2. Navigate tool
 ![Navigate](CADET_SYSTEM_2.png)
